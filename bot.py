@@ -12,8 +12,8 @@ translator = google_translator()
 BOT_TOKEN = Config.BOT_TOKEN
 BOT_ID = Config.1952022146
 
-bot = Client("MizukiChat", bot_token=BOT_TOKEN, api_id=6,
-             api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
+bot = Client("MizukiChat", bot_token=BOT_TOKEN, api_id=1749924,
+             api_hash="87e4a056bb574f7939ac283b9a9187ab")
 print("\nMizuki Chatbot Started!\n")
 
 
