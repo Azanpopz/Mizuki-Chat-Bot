@@ -10,10 +10,10 @@ from google_trans_new import google_translator
 translator = google_translator()
 
 BOT_TOKEN = Config.BOT_TOKEN
-BOT_ID = Config.1952022146
+BOT_ID = Config.1708422349
 
-bot = Client("MizukiChat", bot_token=BOT_TOKEN, api_id=1749924,
-             api_hash="87e4a056bb574f7939ac283b9a9187ab")
+bot = Client("MizukiChat", bot_token=BOT_TOKEN, api_id=6,
+             api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
 print("\nMizuki Chatbot Started!\n")
 
 
